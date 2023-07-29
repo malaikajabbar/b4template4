@@ -1,0 +1,193 @@
+.header1
+{
+  background-image: url(../images/ocean.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 730px;
+}
+
+.navbar
+{
+	background-color: white;
+	height: 63px;
+}
+
+.navbar a
+{
+	font-size: 19px;
+	font-family: sans-serif;
+}
+
+.btn
+{
+	height: 48px;
+    border: none;
+}
+
+.para1
+{
+	font-size: 41px;
+	font-weight: 800px;
+	color: white;
+	letter-spacing: 4px;
+}
+
+.input1
+{
+	float: left;
+	width: 440px;
+	height: 65px;
+	border-radius: 7px;
+	border: none;
+	margin-left: 260px;
+}
+
+.input1::placeholder
+{
+	padding-left: 15px;
+	font-size: 19px;
+}
+
+.btn1
+{
+	float: left;
+	margin-left: 20px;
+	height: 65px;
+	border-radius: 7px;
+}
+
+.box1
+{
+	float: left;
+	width: 340px;
+	height: 280px;
+}
+
+.fa1
+{
+	color: blue;
+}
+
+.para2
+{
+
+	font-size: 28px;
+
+}
+
+.box2
+{
+	float: left;
+	width: 340px;
+	height: 280px;
+}
+
+.fa2
+{
+	color: blue;
+}
+
+.para3
+{
+
+	font-size: 28px;
+
+}
+
+
+.box3
+{
+	float: left;
+	width: 340px;
+	height: 280px;
+}
+
+.fa3
+{
+	color: blue;
+}
+
+.para4
+{
+
+	font-size: 28px;
+
+}
+
+.heading1
+{
+	float: left;
+	margin-top: 115px;
+	margin-left: 95px;
+}
+
+.para5
+{
+	float: left;
+	margin-left: 95px;
+	font-size: 20px;
+}
+
+.img1
+{
+ 	width: 190px;
+}
+
+.header2
+{
+	background-image: url(../images/ocean.avif);
+	width: 100%;
+	height: 350px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.input2
+{
+	float: left;
+	width: 440px;
+	height: 65px;
+	border-radius: 7px;
+	border: none;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+.input2::placeholder
+{
+	padding-left: 15px;
+	font-size: 19px;
+}
+
+.btn2
+{
+	float: left;
+	margin-left: 20px;
+	height: 65px;
+	border-radius: 7px;
+	margin-top: 20px;
+
+}
+
+.fa4
+{
+	color: skyblue;
+	margin-top: 40px;
+	margin-left: 260px;
+}
+
+.fa5
+{
+	color: skyblue;
+	margin-top: 40px;
+}
+
+
+.fa6
+{
+	color: skyblue;
+	margin-top: 40px;
+}
+
+
+
